@@ -1,6 +1,6 @@
 # Eye Exercise
 ***
-Display the live location of the busses on Map by using an API to source real-time data of the Boston MBTA buses.
+Added two eye using HTML ,CSS and the elements follow the mouse position on the screen using the mouse events with JavaScript.
 ### Built with
 ***
 - HTML5
@@ -9,10 +9,10 @@ Display the live location of the busses on Map by using an API to source real-ti
 # How to run 
 ***
 1) DownLoad the files
-2) Create your own Google Cloud API_Key.
-3) Replace YOUR_API_Key with your own key in index.html.
+2) Run the index.html file 
 ## Future Improvements 
 ***
-1) Selecting differnt buses and tracking them.
-2) Impromving css.
-3) Making responsive.
+1) Making a blink effect for eye.
+2) Making responsive.
+## Preview
+
